@@ -1,10 +1,13 @@
 - 👋 Hi, I’m @RashiGupta-7
-- 👀 I’m interested in Java, Data Science, HTML and CSS.
-- 🌱 I’m currently learning Java and Data Science.
-- 💞️ I’m looking to collaborate on Java
-- 📫 How to reach me- email- iasrashigupta07@gmail.com
+- 💼 Data Engineer with experience in cloud data pipelines, ETL, and fintech systems
+- 👀 Interested in Python, SQL, Apache Airflow, GCP (BigQuery, GCS), and scalable data platforms
+- 🌱 Currently upskilling in advanced data engineering concepts and preparing for the GCP Professional Data Engineer certification
+- 🤝 Open to collaborating on data engineering, cloud migration, and automation projects
+- 📫 Reach me at:
+*Email: rashigupta.work07@gmail.com
+*LinkedIn: https://www.linkedin.com/in/rashigupta07/
 
 <!---
 RashiGupta-7/RashiGupta-7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+You can click the Preview link to view your changes.
 --->
